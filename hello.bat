@@ -1,2 +1,2 @@
-echo "hello from Jenkins" %Date: %time
-I am in RFE branch
+echo "hello from Jenkins %Date% : %time%"
+echo "I am in RFE branch"
